@@ -1,0 +1,29 @@
+_repo: Recuerdos-Del-Tiempo-Viejo_53294
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Zorrilla, José
+    aliases:
+    - Zorilla, José
+    - Moral, José Zorrilla y
+    - Zorrilla, Jose
+    birthdate: 1817
+    deathdate: 1893
+    gutenberg_agent_id: '1737'
+    url: http://www.gutenberg.org/2009/agents/1737
+    wikipedia: http://en.wikipedia.org/wiki/José_Zorrilla_y_Moral
+description: ''
+gutenberg_issued: '2016-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53294'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Zorrilla, José, 1817-1893'
+- !lcc 'PQ'
+- GITenberg
+title: Recuerdos Del Tiempo Viejo
+url: http://www.gutenberg.org/ebooks/53294
